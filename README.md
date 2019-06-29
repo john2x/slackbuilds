@@ -1,0 +1,3 @@
+- `https://slackbuilds.org/howto/`
+- `http://www.slackwiki.com/SlackBuild_Scripts`
+- `http://www.slackwiki.com/Writing_A_SlackBuild_Script`
